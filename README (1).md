@@ -7,7 +7,8 @@ An interactive Power BI dashboard analyzing 20,000 UPI (Unified Payments Interfa
 ## 📌 Project Overview
 
 This project visualizes UPI transaction data to help identify spending patterns, transaction trends, and customer behavior across banks, cities, devices, and merchants. The dashboard spans **two pages** with **synced slicers** and **bookmark-driven chart toggles**, giving users a smooth, app-like way to explore the data.
-<img width="1920" height="1020" alt="Screenshot 2026-07-29 181459" src="https://github.com/user-attachments/assets/ecaaa669-199b-43b6-b098-dec617b6f0e1" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-29 181244" src="https://github.com/user-attachments/assets/114d7e83-91de-4afb-ba4a-1b0a1d642f49" />
+
 
 
 ---
@@ -34,6 +35,8 @@ This project visualizes UPI transaction data to help identify spending patterns,
 | TransactionType | Type of transaction (e.g., Transfer) |
 | Status | Success/Failure of transaction |
 | Currency | Transaction currency |
+<img width="1920" height="1020" alt="Screenshot 2026-07-29 181219" src="https://github.com/user-attachments/assets/110f4f30-b061-44a0-9ca3-7514fd0af21e" />
+
 
 ---
 
@@ -54,6 +57,8 @@ This project visualizes UPI transaction data to help identify spending patterns,
 ### Interactivity Features
 - **Synced Slicers:** All 10 filters behave identically across both pages.
 - **Bookmarks:** Power the 4-way chart toggle (Line/Column × Amount/Balance) on Page 1 without needing separate pages.
+- <img width="1920" height="1020" alt="Screenshot 2026-07-29 181414" src="https://github.com/user-attachments/assets/94051b95-24d5-4101-a49c-0df6478e27eb" />
+
 
 ---
 
@@ -64,6 +69,8 @@ This project visualizes UPI transaction data to help identify spending patterns,
 - **High-value niche channel:** Phone-number-based payments are used less often but carry **much higher transaction values**, flagging a segment worth targeting for premium services.
 - **Mobile-first behavior:** The large majority of transactions happen on **mobile devices**, reinforcing the need for mobile-optimized payment experiences.
 - **Clean, reliable dataset:** Near-zero duplication in balance records supports confident, trustworthy reporting.
+- <img width="1920" height="1020" alt="Screenshot 2026-07-29 185517" src="https://github.com/user-attachments/assets/a397fd92-d6b4-4c2b-aa77-0e90504c5413" />
+
 
 ---
 
