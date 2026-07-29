@@ -7,6 +7,8 @@ An interactive Power BI dashboard analyzing 20,000 UPI (Unified Payments Interfa
 ## 📌 Project Overview
 
 This project visualizes UPI transaction data to help identify spending patterns, transaction trends, and customer behavior across banks, cities, devices, and merchants. The dashboard spans **two pages** with **synced slicers** and **bookmark-driven chart toggles**, giving users a smooth, app-like way to explore the data.
+<img width="1920" height="1020" alt="Screenshot 2026-07-29 181459" src="https://github.com/user-attachments/assets/ecaaa669-199b-43b6-b098-dec617b6f0e1" />
+
 
 ---
 
